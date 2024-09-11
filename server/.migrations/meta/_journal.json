@@ -8,6 +8,13 @@
       "when": 1726054246315,
       "tag": "0000_noisy_energizer",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726055498638,
+      "tag": "0001_wakeful_pandemic",
+      "breakpoints": true
     }
   ]
 }
